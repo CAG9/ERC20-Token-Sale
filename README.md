@@ -3,6 +3,6 @@
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 ## License
 MIT License
-## Tools and Technologies
+## Tools
 - Solidity
 - Remix IDE
